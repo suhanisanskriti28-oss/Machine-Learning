@@ -5,8 +5,6 @@
 
 # 1. What is Machine Learning?
 
-### Simple definition
-
 **Machine Learning (ML)** is a way of making computers learn patterns from data so that they can make predictions or decisions on new data **without us manually writing every rule**.
 
 ### Traditional Programming vs Machine Learning
